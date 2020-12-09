@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>신입 Java Developer의 기록 블로그입니다.</description>
+    <link>
+    https://rpget2020.github.io</link>
+    
+      
+      <item>
+        <title>Javascript 노트(1) - Javascript 함수</title>
+        
+          <description>&lt;p&gt;자바스크립트 함수에 대한 내용입니다.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 03 Oct 2020 01:01:00 +0900</pubDate>
+        <link>
+        https://rpget2020.github.io/javascript-funtion</link>
+        <guid isPermaLink="true">https://rpget2020.github.io/javascript-funtion</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Java 노트(2) - Method 메소드</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;java 노트는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-constructor&quot;&gt;Java 노트(1) - Constructor 생성자&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-method&quot;&gt;Java 노트(2) - Method 메소드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Sat, 03 Oct 2020 01:01:00 +0900</pubDate>
+        <link>
+        https://rpget2020.github.io/java-method</link>
+        <guid isPermaLink="true">https://rpget2020.github.io/java-method</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Java 노트(1) - Constructor 생성자</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;java 노트는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-constructor&quot;&gt;Java 노트(1) - Constructor 생성자&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-method&quot;&gt;Java 노트(2) - Method 메소드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Fri, 02 Oct 2020 01:01:00 +0900</pubDate>
+        <link>
+        https://rpget2020.github.io/java-constructor</link>
+        <guid isPermaLink="true">https://rpget2020.github.io/java-constructor</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://rpget2020.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://rpget2020.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
